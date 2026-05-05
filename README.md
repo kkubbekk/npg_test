@@ -1,1 +1,1 @@
-test hej hej
+test hej hej | dodaje zmiany do pliku
